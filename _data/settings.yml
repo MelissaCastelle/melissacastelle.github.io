@@ -56,8 +56,10 @@ hero:
   hero_description: |
     Hey, I’m Mélissa — Technical Artist focused on real-time environments, procedural systems, and production-ready solutions.
 
-    Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
-  hero_image: /images/01.jpg
+   Here, I document my work, share the tools and techniques I use, and break down the systems and workflows behind my projects. From procedural environments and Blueprint setups to optimization strategies and shader experiments, this is where I show how I solve problems and bring ideas to life.  
+
+    Explore, learn, and get a behind-the-scenes look at my Technical Art journey — and feel free to share your thoughts or questions along the way!
+
   hero_image_caption: My creative space, where new worlds are born
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
