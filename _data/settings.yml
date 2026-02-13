@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Coderon
-description: Coderon is a super modern and unique Jekyll blog theme
+title: MELISSA CASTELLE
+description: Heart of Art, Mind of Logic.
 logo: # You can add own logo. For example '/images/logo.png'.
 logo_dark:
 
@@ -42,7 +42,7 @@ menu_settings:
 #-------------------------------
 # Author Settings
 author:
-  author_name: Alex Dias
+  author_name: Mélissa Castelle
   author_avatar: /images/01-1.jpg
 
 
@@ -51,14 +51,14 @@ author:
 hero:
   enable: true
   hero_avatar: /images/01-1.jpg
-  hero_title: Hi! I’m Alex 👋
-  hero_subtitle: A digital explorer, coder, and Linux advocate
+  hero_title: Hi! I’m Mélissa 🌻
+  hero_subtitle: A technical artist, former environment artist, and nerdy mom.
   hero_description: |
-    I’m a digital explorer, coder, and Linux advocate. This blog is my personal knowledge base on productivity, programming, and the freedom of information.
+    Hey, I’m Mélissa — Technical Artist focused on real-time environments, procedural systems, and production-ready solutions.
 
     Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
   hero_image: /images/01.jpg
-  hero_image_caption: My creative space, where masterpieces are born
+  hero_image_caption: My creative space, where new worlds are born
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
 
@@ -167,7 +167,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: your@email.com # Add your form_id
+  form_id: melissa.castelle.ta@gmail.com # Add your form_id
   button_text: Send Now
 
 # NOTE
