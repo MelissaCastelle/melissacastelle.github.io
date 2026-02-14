@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How Games Keep Players Engaged and Motivated
-description: In recent years, indie games have transformed the gaming industry, offering unique experiences that often surpass mainstream titles in creativity and innovation.
-date: 2024-10-19 15:01:35 +0300
+title: FluidFlux - Shallow Water Simulation in Unreal Engine.
+description: How FluidFlux works and how to use it in Enreal Engine?
+date: 2025-10-19 15:01:35 +0300
 image: '/images/33.jpg'
 tags: [Games]
 tags_color: '#ff4500'
