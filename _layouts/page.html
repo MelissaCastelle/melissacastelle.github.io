@@ -30,17 +30,7 @@ layout: default
 
       </div>
 
-   <!-- Ici on met les widgets à la place de la sidebar -->
-      <aside class="page-widgets">
-        {% include sidebar-widgets/widget-social.html %}
-        {% include sidebar-widgets/widget-featured-posts.html %}
-        {% include sidebar-widgets/widget-tags.html %}
-      </aside>
-    </div>
-
-    <!-- Colonne droite : contenu principal dans la sidebar -->
-    <div class="col col-4 col-d-12">
-      <article class="page">
+ <article class="page">
         <div class="page__content">
           {% if page.toc == true %}
           <div class="page__toc">
@@ -52,6 +42,15 @@ layout: default
           {{ content }}
         </div>
       </article>
+    </div>
+
+    <!-- Colonne sidebar : widgets -->
+    <div class="col col-4 col-d-12">
+      <aside class="sidebar">
+        {% include sidebar-widgets/widget-social.html %}
+        {% include sidebar-widgets/widget-featured-posts.html %}
+        {% include sidebar-widgets/widget-tags.html %}
+      </aside>
     </div>
 
   </div>
