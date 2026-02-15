@@ -34,14 +34,14 @@ menu_settings:
       #Ici ShaderGraph Materials (Layered materials,Vertex animation,RimLighting), Optimization focused shaders, VFX, Raymarching/procedural surfaces (fog,clouds), Lighting/Rendering techniques
     - title: 'Rendering and Shaders'
       url: '/rendering-shaders/'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/techartducks/'
-        title: 'TechArtDucks'
-      - title: 'Events'
+  submenu:
+    - url: '/about/'
+      title: 'About'
+    - url: '/contact/'
+      title: 'Contact'
+    - url: '/techartducks/'
+      title: 'TechArtDucks'
+    - title: 'Events'
       url: '/events/'
 
 
