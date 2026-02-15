@@ -69,6 +69,7 @@ hero:
   hero_image_caption: My creative space, where new worlds are born
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
+  herp_image: /images/01-1.jpg
 
 #-------------------------------
 # Gallery Section Settings
