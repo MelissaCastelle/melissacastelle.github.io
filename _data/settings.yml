@@ -56,7 +56,7 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: null
+  hero_avatar: /images/01-1.jpg
   hero_title: "Hi! I'm Melissa🌻"
   hero_subtitle: A technical artist, former environment artist, and nerdy mom.
   hero_description: |
