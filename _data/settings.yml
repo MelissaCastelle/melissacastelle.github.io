@@ -100,18 +100,16 @@ gallery_section:
 # Logos
 logos:
   enable: true
-  logos_title: Projects I worked on
+  logos_title: They trusted me
   logo_image:
-    - alt: "Game Boy"
+    - alt: "Atomic Arcade"
       image: "/images/1000.jpg"
-    - alt: "Super Nintendo"
+    - alt: "BHVR"
       image: "/images/1001.jpg"
-    - alt: "Keyboard"
+    - alt: "Catalyst"
       image: "/images/1002.jpg"
-    - alt: "Headphones"
+    - alt: "DPT"
       image: "/images/1003.jpg"
-    - alt: "Mouse"
-      image: "/images/1004.jpg"
 #-------------------------------
 # Videos Section Settings
 videos_section:
